@@ -6,22 +6,22 @@ Welcome to the SQL project focused on analyzing an online music store's dataset.
 
 This project was developed using PostgreSQL and managed through pgAdmin 4, a popular open-source administration and management tool for PostgreSQL databases.
 
-Project Overview
+# Project Overview
 The main objective of this project is to demonstrate how SQL queries and various advanced techniques can be applied to a real-world dataset to derive meaningful insights. The dataset used in this project represents an online music store's information, including details about songs, albums, customers, purchases, and more.
 
 
-Tools Used
+# Tools Used
 Database Management System (DBMS): PostgreSQL
 Database Administration Tool: pgAdmin 4
 
-Key Concepts and Techniques Applied
+# Key Concepts and Techniques Applied
 SQL Queries and Joins: Utilized SQL queries and different types of joins to combine data from multiple tables efficiently.
 Subqueries: Employed subqueries to retrieve data based on the results of another query.
 Inner Queries: Utilized inner queries to extract specific data from the database.
 Common Table Expressions (CTEs): Created CTEs to simplify complex queries and improve readability.
 Recursive Queries: Explored recursive queries to solve hierarchical problems within the dataset.
 
-Project Structure
+# Project Structure
 The project is divided into different levels of complexity:
 
 Easy: Answered straightforward questions using basic SQL queries and simple joins.
@@ -29,14 +29,14 @@ Moderate: Tackled more complex questions involving subqueries and intermediate-l
 Advanced: Addressed advanced analytical questions using techniques like CTEs and recursive queries.
 
 
-Getting Started
+# Getting Started
 To replicate or explore this project on your own, follow these steps:
 
 Database Setup: Set up a PostgreSQL database and load the provided music store dataset.
 Tool Installation: Install pgAdmin 4 to manage the database and execute SQL queries.
 Queries: Open the SQL files for each level (Easy, Moderate, Advanced) and execute the queries to get the answers.
 
-Project Benefits
+# Project Benefits
 By completing this project, you will:
 
 Gain familiarity with SQL querying and database manipulation.
